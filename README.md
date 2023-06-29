@@ -1,6 +1,6 @@
 ### Olá, eu sou o Micael Presotto
 
-- 🔭 Atualmente trabalho com back-end no Laboratório Bridge
+- 🔭 Atualmente trabalho com desenvolvimento de software no Laboratório Bridge
 - 🌱 Estudando Ciências da Computação na Universidade Federal de Santa Catarina (UFSC)
 
 <div>
